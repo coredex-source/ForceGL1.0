@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "forcegl10",
+  "version": "${version}",
+  "name": "ForceGL10",
+  "description": "Forces the game to use OpenGL 1.0! .. Why man, just upgrade your pc please.",
+  "authors": [
+    "KabanFriends, Coredex(coredex-source)"
+  ],
+  "contact": {
+    "sources": "https://github.com/KabanFriends/ForceGL20, https://github.com/coredex-source/ForceGL10"
+  },
+  "license": "LGPL-3.0",
+  "icon": "assets/forcegl20/icon.png",
+  "environment": "client",
+  "mixins": [
+    "forcegl20.mixins.json"
+  ],
+  "depends": {
+    "minecraft": ">=1.21"
+  }
+}
