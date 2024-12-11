@@ -4,6 +4,8 @@
 
 ## This version of the mod is only available for fabric rn, you can request for another mod loader in the issues section.
 
+## Just get a new pc at this point please, just grab a used optiplex or smth .. anything even slightly newer might be better than your current bench at this point.
+
 ## Fixes-
 - Fixes game not launching due to GL errors on EXTREMELY OLD GPUs.
 
